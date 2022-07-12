@@ -54,16 +54,19 @@
     border: 1px solid #DDDDDD;
     border-radius: 4px;
     padding-bottom: 30px;
-    padding-top: 30px;
 }
 .popover h2 {
     font-weight: 16px;
     margin: 0;
     margin-left: -25px;
+    padding-top: 30px;
 }
 .locations:hover .popover, .amenities:hover .popover {
     display: block;
 }
 ul {
     list-style: none;
+}
+.top_amenities {
+    padding-top: 30px;
 }
